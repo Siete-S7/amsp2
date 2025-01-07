@@ -1,0 +1,19 @@
+{
+	"minecraft:cobblestone": {
+	  "currency": "minecraft:iron_ingot",
+	  "sellPrice": 1,
+	  "sellAmount": 64,
+	  "color": "FFAAAAAA"//color stored in argb hex format (first two symbols is alpha) 
+	},
+	"minecraft:glowstone": {
+	  "currency": "minecraft:iron_ingot",
+	  "sellPrice": 3,
+	  "sellAmount": 16,
+	  "color": "FFFFFF33"
+	},
+	"minecraft:wheat_seeds": {
+	  "currency": "minecraft:iron_ingot",
+	  "sellPrice": 1,
+	  "sellAmount": 64
+	}
+}
