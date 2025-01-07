@@ -1,3 +1,4 @@
+
 #General mod settings
 [general]
 	#-
@@ -5,3 +6,4 @@
 	#Default 5 minutes
 	#Range: > 0
 	ticksToMarkPlayerIdle = 6000
+

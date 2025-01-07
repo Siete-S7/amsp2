@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "1816fe5e300d3a91a30b64ab6cf5f7ba"
+	name: "Angel_S7"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

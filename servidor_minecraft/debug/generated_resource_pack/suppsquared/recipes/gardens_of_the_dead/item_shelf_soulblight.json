@@ -1,0 +1,28 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "flag": "item_shelf",
+          "type": "supplementaries:flag"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "000"
+        ],
+        "key": {
+          "0": {
+            "item": "gardens_of_the_dead:soulblight_slab"
+          }
+        },
+        "result": {
+          "item": "suppsquared:gardens_of_the_dead/item_shelf_soulblight",
+          "count": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "flag": "item_shelf",
+          "type": "supplementaries:flag"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "000"
+        ],
+        "key": {
+          "0": {
+            "item": "gardens_of_the_dead:whistlecane_slab"
+          }
+        },
+        "result": {
+          "item": "suppsquared:gardens_of_the_dead/item_shelf_whistlecane",
+          "count": 2
+        }
+      }
+    }
+  ]
+}

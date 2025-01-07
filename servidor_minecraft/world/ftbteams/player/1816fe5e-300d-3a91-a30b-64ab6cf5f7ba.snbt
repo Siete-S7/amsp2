@@ -1,0 +1,17 @@
+{
+	id: "1816fe5e-300d-3a91-a30b-64ab6cf5f7ba"
+	type: "player"
+	player_name: "Angel_S7"
+	ranks: {
+		1816fe5e-300d-3a91-a30b-64ab6cf5f7ba: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Angel_S7"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7DFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
