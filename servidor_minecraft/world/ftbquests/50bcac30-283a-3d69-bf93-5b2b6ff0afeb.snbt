@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "50bcac30283a3d69bf935b2b6ff0afeb"
+	name: "Angel_S77"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

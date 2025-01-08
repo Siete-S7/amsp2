@@ -1,28 +1,28 @@
-[20:16:21.451][INFO]: Successfully injected RecipeFS file system
-[20:16:21.501][INFO]: Successfully identified and loaded plugin jeitweaker:common
-[20:16:21.515][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
-[20:16:21.516][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[20:16:21.519][INFO]: Successfully identified and loaded plugin createtweaker:main
-[20:16:21.522][INFO]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
-[20:16:21.551][INFO]: Identified JeiTweaker plugin 'jeitweaker:forge': loading scheduled
-[20:16:21.553][INFO]: Identified JeiTweaker plugin 'jeitweaker:common': loading scheduled
-[20:16:21.563][INFO]: JEITweaker Environmental Check: the combination of mods [jei] is fully supported
-[20:16:21.563][INFO]: Running JeiTweaker plugin initialization
-[20:16:21.582][INFO]: JeiTweaker plugin initialization completed successfully
-[20:16:22.547][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
-[20:16:22.549][INFO]: - 'crafttweaker' at version '10.1.55'
-[20:16:22.549][INFO]: - 'createtweaker' at version '3.0.0.7'
-[20:16:22.549][INFO]: - 'farmersdelight' at version '1.19.2-1.2.4'
-[20:16:22.549][INFO]: - 'jeitweaker' at version '4.0.13'
-[20:16:34.356][INFO]: Started loading scripts for loader 'initialize'
-[20:16:35.073][INFO]: Compiling and executing scripts
-[20:16:35.109][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[20:16:35.234][INFO]: Execution for loader 'initialize' completed successfully
-[20:16:45.055][INFO]: Started loading scripts for loader 'tags'
-[20:16:45.079][INFO]: Compiling and executing scripts
-[20:16:45.101][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[20:16:45.115][INFO]: Execution for loader 'tags' completed successfully
-[20:16:46.939][INFO]: Started loading scripts for loader 'crafttweaker'
-[20:16:46.969][INFO]: Compiling and executing scripts
-[20:16:47.372][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[20:16:47.392][INFO]: Execution for loader 'crafttweaker' completed successfully
+[21:11:40.841][INFO]: Successfully injected RecipeFS file system
+[21:11:40.869][INFO]: Successfully identified and loaded plugin jeitweaker:common
+[21:11:40.886][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[21:11:40.890][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[21:11:40.897][INFO]: Successfully identified and loaded plugin createtweaker:main
+[21:11:40.898][INFO]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[21:11:40.925][INFO]: Identified JeiTweaker plugin 'jeitweaker:forge': loading scheduled
+[21:11:40.930][INFO]: Identified JeiTweaker plugin 'jeitweaker:common': loading scheduled
+[21:11:40.938][INFO]: JEITweaker Environmental Check: the combination of mods [jei] is fully supported
+[21:11:40.938][INFO]: Running JeiTweaker plugin initialization
+[21:11:40.951][INFO]: JeiTweaker plugin initialization completed successfully
+[21:11:41.687][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[21:11:41.690][INFO]: - 'crafttweaker' at version '10.1.55'
+[21:11:41.690][INFO]: - 'createtweaker' at version '3.0.0.7'
+[21:11:41.691][INFO]: - 'farmersdelight' at version '1.19.2-1.2.4'
+[21:11:41.691][INFO]: - 'jeitweaker' at version '4.0.13'
+[21:11:48.745][INFO]: Started loading scripts for loader 'initialize'
+[21:11:49.671][INFO]: Compiling and executing scripts
+[21:11:49.706][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[21:11:49.817][INFO]: Execution for loader 'initialize' completed successfully
+[21:11:56.448][INFO]: Started loading scripts for loader 'tags'
+[21:11:56.481][INFO]: Compiling and executing scripts
+[21:11:56.504][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[21:11:56.514][INFO]: Execution for loader 'tags' completed successfully
+[21:11:57.833][INFO]: Started loading scripts for loader 'crafttweaker'
+[21:11:57.862][INFO]: Compiling and executing scripts
+[21:11:58.293][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[21:11:58.314][INFO]: Execution for loader 'crafttweaker' completed successfully
