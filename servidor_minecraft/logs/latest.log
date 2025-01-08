@@ -1587,3 +1587,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jan2025 21:12:14.932] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
 [08Jan2025 21:16:28.758] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
 [08Jan2025 21:16:29.958] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing common.MixinServerStatusSerializer from nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus$Serializer
+[08Jan2025 21:22:32.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/182, l='ServerLevel[world]', x=171.04, y=64.00, z=186.96] died, message: 'Farmer was slain by Zombie'

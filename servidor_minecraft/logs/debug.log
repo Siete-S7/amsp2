@@ -15303,3 +15303,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [08Jan2025 21:17:14.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jan2025 21:17:14.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Jan2025 21:19:54.828] [Server thread/DEBUG] [mixin/]: Mixing copycat.trapdoor.DismountHelperMixin from copycats-common.mixins.json into net.minecraft.world.entity.vehicle.DismountHelper
+[08Jan2025 21:22:14.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 21:22:14.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 21:22:32.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/182, l='ServerLevel[world]', x=171.04, y=64.00, z=186.96] died, message: 'Farmer was slain by Zombie'
+[08Jan2025 21:27:14.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 21:27:14.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
